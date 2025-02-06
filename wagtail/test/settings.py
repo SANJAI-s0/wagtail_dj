@@ -201,6 +201,7 @@ ALLOWED_HOSTS = [
     "other.example.com",
     "127.0.0.1",
     "0.0.0.0",
+    "https://wagtail-dj-git-sanjai-s0-dev.apps.rm3.7wse.p1.openshiftapps.com/"
 ]
 
 WAGTAILSEARCH_BACKENDS = {
